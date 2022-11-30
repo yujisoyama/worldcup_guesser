@@ -3,10 +3,7 @@ import { THEME } from './src/styles/theme'
 import { useFonts, Roboto_400Regular, Roboto_500Medium, Roboto_700Bold } from '@expo-google-fonts/roboto'
 import { Loading } from './src/components/Loading';
 import { AuthContextProvider } from "./src/context/AuthContext";
-import { SignIn } from './src/screens/SignIn';
-import { New } from "./src/screens/New";
-import { Find } from "./src/screens/Find";
-import { Polls } from "./src/screens/Polls";
+import { Routes } from "./src/routes";
 
 export default function App() {
   const [fontsLoaded] = useFonts({ Roboto_400Regular, Roboto_500Medium, Roboto_700Bold });
@@ -19,7 +16,7 @@ export default function App() {
           backgroundColor="transparent"
           translucent
         />
-        {fontsLoaded ? <Polls /> : <Loading />}
+        {fontsLoaded ? <Routes /> : <Loading />}
       </AuthContextProvider>
     </NativeBaseProvider>
   );

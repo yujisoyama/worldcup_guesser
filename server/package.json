@@ -21,8 +21,11 @@
   },
   "dependencies": {
     "@fastify/cors": "^8.2.0",
+    "@fastify/jwt": "^6.4.0",
     "@prisma/client": "^4.6.1",
+    "dotenv": "^16.0.3",
     "fastify": "^4.10.2",
+    "node-fetch": "^3.3.0",
     "short-unique-id": "^4.4.4",
     "zod": "^3.19.1"
   }
