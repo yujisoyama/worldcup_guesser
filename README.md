@@ -1,4 +1,4 @@
-# findyourduo
+# Word Cup Guesser by Rocketseat
 
 Full stack project developed during the NLW Copa week of <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a>. The application aims to connect people looking for new friends to play games together.
 
