@@ -17,6 +17,9 @@ Full stack project developed during the NLW Copa week of <a href="https://www.ro
 ![](https://user-images.githubusercontent.com/64661100/204915510-563f9ff5-fd43-462a-94db-6323bec4bd13.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 
+## Figma
+See the Figma project [here](https://www.figma.com/community/file/1169028343875283461)
+
 ## ▶️ Running locally
  
    ```
