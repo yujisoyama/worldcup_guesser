@@ -71,7 +71,7 @@ Advancing to the next level with these learnings.
 > Back-end: 
 
 - [Node](https://nodejs.org/en/)
-- [Express](https://www.npmjs.com/package/express)
+- [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/express)
 
 > Mobile
